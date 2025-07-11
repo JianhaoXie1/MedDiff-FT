@@ -54,7 +54,7 @@ cd MedDiff-FT/main
 python infer.py \
 --model_path /path/to/model \
 --input_path /path/to/input_images \ # normal images
---label_path /path/to/masks \ # genreate masks
+--label_path /path/to/masks \ # Generate masks
 --out_path /path/to/output \
 ```
 # TODO List
