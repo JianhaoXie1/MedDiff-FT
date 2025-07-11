@@ -1,0 +1,11 @@
+{
+    "image": [
+        "../data/train/images/ISIC_0000012.jpg"
+    ],
+    "mask_1": [
+        "../data/train/masks/ISIC_0000012_segmentation.png"
+    ],
+    "prompt": [
+        "a photo of hta"
+    ]
+}
