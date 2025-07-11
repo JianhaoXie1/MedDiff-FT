@@ -1,8 +1,10 @@
-accelerate>=0.16.0
+accelerate==0.29.0
 torchvision
-transformers>=4.25.1
+transformers==4.39.3
 datasets>=2.16.0
 wandb>=0.16.1
 ftfy
 tensorboard
 Jinja2
+huggingface-hub==0.25.2
+diffusers==0.27.2
